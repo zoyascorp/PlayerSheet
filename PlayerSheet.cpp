@@ -34,7 +34,6 @@ bool score_sorter(const Player& p, const Player& r)
 
 int main()
 {
-    /*system("chcp 1251 > nul");*/
     size_t n;
     cout << "Enter number of players: ";
     cin >> n;
